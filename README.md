@@ -2,7 +2,7 @@
 
 A basic Java Blockchain inlcuding transaction functionality made by following the medium.com guide.
 
-https://medium.com/programmers-blockchain/creating-your-first-blockchain-with-java-part-2-transactions-2cdac335e0ce
+[Guide link](https://medium.com/programmers-blockchain/creating-your-first-blockchain-with-java-part-2-transactions-2cdac335e0ce)
 
 # Dependencies
 bouncy castle https://www.bouncycastle.org/download/bcprov-jdk15on-159.jar
